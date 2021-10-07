@@ -9,10 +9,14 @@
 ## My stat
 [![Github stats](https://github-readme-stats.vercel.app/api?username=iakunin)](https://github.com/anuraghazra/github-readme-stats)
 
-## PRs I'm proud of
-- [php-src](https://github.com/php/php-src/pull/4687)
-- [database-rider](https://github.com/database-rider/database-rider/pull/203)
-- [LiipThemeBundle](https://github.com/liip/LiipThemeBundle/pull/198/files)
+## Projects I had the honor to contribute to
+- [yegor256/cactoos](https://github.com/yegor256/cactoos/pulls?q=is%3Apr+author%3Aiakunin)
+- [yegor256/cactoos-http](https://github.com/yegor256/cactoos-http/pulls?q=is%3Apr+author%3Aiakunin)
+- [database-rider/database-rider](https://github.com/database-rider/database-rider/pulls?q=is%3Apr+author%3Aiakunin)
+- [sunsofterp/okta-sdk-java](https://github.com/sunsofterp/okta-sdk-java/pulls?q=is%3Apr+author%3Aiakunin)
+- [php/php-src](https://github.com/php/php-src/pull/4687)
+
+And my nostalgic first ever pull request on GitHub you can find [here](https://github.com/liip/LiipThemeBundle/pull/198/files).
 
 ## Dev-info
 - <details>
