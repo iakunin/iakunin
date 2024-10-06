@@ -3,7 +3,6 @@
 ## Find me around the web 🌎:
 - This is <a href="https://iakunin.dev/">my tech blog</a> ✍️
 - Here is <a href="https://www.linkedin.com/in/iakunin/">my LinkedIn profile</a> 💼
-- You can text me in <a href="https://t.me/iakunin">Telegram</a> <img height="14" width="14" src="https://telegram.org/favicon.ico" />
 - Or even drop me an <a href="mailto:yakuninm+github@gmail.com">email</a> :love_letter:
 
 ## My stat
