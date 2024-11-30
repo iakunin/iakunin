@@ -3,7 +3,7 @@
 ## Find me around the web 🌎:
 - This is <a href="https://iakunin.dev/">my tech blog</a> ✍️
 - Here is <a href="https://www.linkedin.com/in/iakunin/">my LinkedIn profile</a> 💼
-- Or even drop me an <a href="mailto:yakuninm+github@gmail.com">email</a> :love_letter:
+- Or you can drop me an <a href="mailto:yakuninm+github@gmail.com">email</a> :love_letter:
 
 ## My stat
 [![Github stats](https://github-readme-stats.vercel.app/api?username=iakunin)](https://github.com/anuraghazra/github-readme-stats)
